@@ -15,7 +15,8 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * The conversion tool
 * Alternative variable scoping
   
-
+# Editing the Readme file for module purposes.
+Mdelrio edited version
 ## Eager Execution
 
 
